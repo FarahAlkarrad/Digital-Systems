@@ -1,14 +1,14 @@
 # Digital-System
- The project allows you to convert numbers to all other digital systems as a following:
- 
- Decimal to other.               
- Binary to Decimal.              
- Binary to Octal.                
- Binary to HexaDecimal.          
- Octal to Decimal.                
- Octal to Binary.                
- Octal to HexaDecimal.           
- HexaDecimal to Decimal.         
- HexaDecimal to Binary.          
- HexaDecimal to Octal.           
-
+ <h4>The project allows you to convert numbers to all other digital systems as a following:</h4>
+ <ul>
+ <li>Decimal to other.</li>
+ <li>Binary to Decimal.</li>
+ <li>Binary to Octal.</li>
+ <li>Binary to HexaDecimal.</li>
+ <li>Octal to Decimal</li>
+ <li>Octal to Binary.</li>
+ <li>Octal to HexaDecimal.</li>
+ <li>HexaDecimal to Decimal.</li>
+ <li>HexaDecimal to Binary.</li>
+ <li>HexaDecimal to Octal.</li>
+ </ul>
